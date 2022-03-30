@@ -1,5 +1,5 @@
 # installing Matplotlib
-conda install matplotlib
+pip install matplotlib
 # Importing the libraries
 
 import pandas as pd
